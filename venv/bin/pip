@@ -1,4 +1,4 @@
-#!/home/sasha/prog/venv/bin/python3
+#!/home/sasha/prog/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
